@@ -1,0 +1,36 @@
+.business-info-container {
+   height: 780px;
+   color: #ffffff;
+   background-color: #000000;
+   }
+    
+.business-info-box {
+   width: 50%;
+   border: 4pt double #ffffff;
+   background-color: #1c1c1c;
+   text-align: center;
+   position: relative;
+   top: 20px;
+   left: 24%;
+   padding: 10px;
+   }    
+
+.business-info-header {
+   margin-top: 0;
+   }
+   
+.winery-info {
+   margin: 0;
+   }
+
+.contact-form-container {
+   background-color: #000000;
+   padding-bottom: 20px;
+   }
+   
+.contact-form-box {
+   margin: 0 auto;
+   border: 4pt double #ffffff;
+   width: 60%;
+   background-color: #8C8C8C;
+   }   

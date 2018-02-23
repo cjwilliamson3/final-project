@@ -1,0 +1,90 @@
+.discount-container {
+    height: 250px;
+    background: 
+    /* top, transparent */ 
+    linear-gradient(
+      rgba(255, 223, 0, 0.30), 
+      rgba(255, 223, 0, 0.30)
+    ),
+    /* bottom, image */
+    url(../images/grapes-on-vine.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    padding-top: 90px;
+    }
+
+.discount-box {
+    width: 50%;
+    height: 50%;
+    background-color: #1c1c1c;
+    border: 4pt double #ffffff;
+    margin: 0 auto;
+    }
+
+.discount-text {
+    color: #ffffff;
+    text-align: center;
+    }
+
+.wine-list-container {
+    height: 540px;
+    background-color: #000000;
+    padding-top: 20px;
+    }
+
+.column1 {
+    width: 50%;
+    float: left;
+    }
+    
+.column2 {
+    width: 50%;
+    float: left;
+    }
+    
+.wine-selection-box {    
+    height: 240px;
+    width: 85%;
+    margin: 0 auto;
+    background-color: #1c1c1c;
+    display: block;
+    overflow: auto;
+    border: 4pt double #ffffff;
+    }
+
+.label-image-column {
+    padding: 4px;
+    float: left;
+    }
+
+.wine-description-column {
+    margin-top: 5px;
+    margin-left: 30%;
+    margin-right: 5px;
+    }
+
+.wine-info-text {
+    margin: 0;
+    color: #ffffff;
+    }    
+
+.underline {
+    text-decoration-line: underline;
+    text-decoration-color: #ffffff;
+    }
+    
+.last-wine-container {
+    height: 320px;
+    background-color: #000000;
+    }
+    
+.wine-selection-box2 {    
+    height: 240px;
+    width: 42.5%;
+    margin: 0 auto;
+    background-color: #1c1c1c;
+    display: block;
+    overflow: auto;
+    border: 4pt double #ffffff;
+    }
